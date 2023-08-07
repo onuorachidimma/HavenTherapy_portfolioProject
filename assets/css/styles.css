@@ -15,17 +15,30 @@
     padding: 1rem 4rem;
 }
 
+.header-logo1{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1.5rem;
+}
+
+.green{
+    color: #286256;
+}
+
+.yellow{
+    color: #E8B132;
+}
+
 .header-options{
     width: 30%;
 }
 
-.header-buttons{
-    width: 20%;
-    justify-content: space-between;
+.header-options{
+    align-items: center;
+    justify-content: center;
 }
 
 .unordered-list{
-    justify-content: space-between;
+    gap: 2rem;
 }
 
 header li{
@@ -35,4 +48,10 @@ header li{
 header a{
     text-decoration: none;
     color: #081411;
+}
+
+.header-buttons{
+    width: 20%;
+    justify-content: space-between;
+    align-items: center;
 }
