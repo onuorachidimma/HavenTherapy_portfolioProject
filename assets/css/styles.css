@@ -9,5 +9,13 @@
 }
 
 .header-container{
-    
+    justify-content: space-between;
+}
+
+
+.header-options{
+    width: 30%;
+}
+.unordered-list{
+    justify-content: space-between;
 }
