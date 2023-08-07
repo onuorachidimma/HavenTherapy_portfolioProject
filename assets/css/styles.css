@@ -59,3 +59,18 @@ header a{
     justify-content: space-between;
     align-items: center;
 }
+
+.header-login{
+    color: #286256;
+    padding: 8px 40px;
+    border: 1px solid #286256;
+    border-radius: 20px;
+}
+
+.header-getStarted{
+    color: #FFF;
+    padding: 8px 16px;
+    border: 1px solid #286256;
+    border-radius: 20px;    
+    background-color: #286256;  
+}
