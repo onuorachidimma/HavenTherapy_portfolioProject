@@ -8,14 +8,23 @@
     display: flex;
 }
 
+/* HEADER */
+
 .header-container{
     justify-content: space-between;
+    padding: 1rem 4rem;
 }
 
 
 .header-options{
     width: 30%;
 }
+
+.header-buttons{
+    width: 20%;
+    justify-content: space-between;
+}
+
 .unordered-list{
     justify-content: space-between;
 }
