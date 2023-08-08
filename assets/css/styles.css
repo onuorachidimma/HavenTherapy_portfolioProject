@@ -158,3 +158,18 @@ header a{
 .border-right{
     border-right: 1px solid #FFF;
 }
+
+.about-writeup{
+    width: 30%;
+}
+
+.about-container{
+    margin: auto;
+    width: 90%;
+    justify-content: space-between;
+}
+
+.about-images{
+    width: 60%;
+    justify-content: space-between;
+}
